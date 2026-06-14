@@ -1,0 +1,8 @@
+HEALTHCARE DOMAIN BENCHMARKS:
+- Normal blood glucose: 70-100 mg/dL (fasting)
+- Healthy BMI range: 18.5 to 24.9
+- High cholesterol: above 200 mg/dL is borderline, 240+ is high risk
+- Heart disease risk increases significantly above age 45
+- Blood pressure normal: below 120/80 mmHg
+- Diabetes diagnosis: fasting glucose above 126 mg/dL
+- Obesity defined as BMI above 30

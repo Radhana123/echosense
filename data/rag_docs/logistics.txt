@@ -1,0 +1,8 @@
+LOGISTICS DOMAIN BENCHMARKS:
+- Average food delivery time in India: 30-45 minutes (clear weather)
+- Rain season typically increases delivery time by 40-80%
+- Cancellation rate benchmark: below 5% is healthy
+- Customer rating below 3.0 strongly correlates with cancellation
+- Distance above 8km significantly impacts delivery time
+- Peak hours (12-2pm, 7-10pm) add 15-25 minutes on average
+- Rider availability drops by 30% during heavy rain
